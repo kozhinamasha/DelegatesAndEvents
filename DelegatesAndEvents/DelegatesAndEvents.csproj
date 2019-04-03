@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SimpleDelegate\SimpleDelegate.cs" />
     <Compile Include="WithoutAdditionalArguments\LoginToPostman.cs" />
     <Compile Include="WithAdditionalArguments\MailService.cs" />
     <Compile Include="WithAdditionalArguments\MessageService.cs" />
